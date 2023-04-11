@@ -4,7 +4,7 @@ const BLOG = {
   email: 'hello@feimind.xyz',
   link: 'https://blog.feimind.xyz',
   description: '记录我，遇到你',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
